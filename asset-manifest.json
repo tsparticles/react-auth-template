@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-auth-template/static/css/main.db7423eb.chunk.css",
+    "main.js": "/react-auth-template/static/js/main.cd843539.chunk.js",
+    "main.js.map": "/react-auth-template/static/js/main.cd843539.chunk.js.map",
+    "runtime-main.js": "/react-auth-template/static/js/runtime-main.a775e72e.js",
+    "runtime-main.js.map": "/react-auth-template/static/js/runtime-main.a775e72e.js.map",
+    "static/js/2.badf48fa.chunk.js": "/react-auth-template/static/js/2.badf48fa.chunk.js",
+    "static/js/2.badf48fa.chunk.js.map": "/react-auth-template/static/js/2.badf48fa.chunk.js.map",
+    "index.html": "/react-auth-template/index.html",
+    "precache-manifest.f42e9cccfad3bbfc71a19cdeaccf7b41.js": "/react-auth-template/precache-manifest.f42e9cccfad3bbfc71a19cdeaccf7b41.js",
+    "service-worker.js": "/react-auth-template/service-worker.js",
+    "static/css/main.db7423eb.chunk.css.map": "/react-auth-template/static/css/main.db7423eb.chunk.css.map",
+    "static/js/2.badf48fa.chunk.js.LICENSE.txt": "/react-auth-template/static/js/2.badf48fa.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-auth-template/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a775e72e.js",
+    "static/js/2.badf48fa.chunk.js",
+    "static/css/main.db7423eb.chunk.css",
+    "static/js/main.cd843539.chunk.js"
+  ]
+}
