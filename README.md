@@ -5,12 +5,12 @@ tsParticles Simple Auth HTML Template for React Web Sites/Applications
 ## Login Page Preview
 [![login](https://raw.githubusercontent.com/tsparticles/react-auth-template/master/__screenshots/login.png)](https://tsparticles.github.io/auth-template/login.html)
 
-See working preview [here](https://tsparticles.github.io/auth-template/login.html)
+See working preview [here](https://tsparticles.github.io/react-auth-template/#/login)
 
 ## Register Page Preview
 [![register](https://raw.githubusercontent.com/tsparticles/react-auth-template/master/__screenshots/register.png)](https://tsparticles.github.io/auth-template/register.html)
 
-See working preview [here](https://tsparticles.github.io/auth-template/register.html)
+See working preview [here](https://tsparticles.github.io/react-auth-template/#/register)
 
 ## What is tsParticles
 
