@@ -11,7 +11,7 @@
     "react-dom": "^16.14.0",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.0",
+    "react-scripts": "4.0.1",
     "react-tsparticles": "^1.18.8"
   },
   "scripts": {
